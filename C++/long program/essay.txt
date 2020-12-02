@@ -1,0 +1,17 @@
+                    WEB DEVELOPER AS A CAREER.
+
+    A web developer is a programmer who specializes in the development of World Wide Web applications using a client-server model. They are also responsible for designing, coding and modifying websites, from layout to function and according to a client's specifications.
+
+    Before moving into the web development, We need to fit and familier with some programming language. That we  gonna discuss after while.
+    
+    Here, you can arise some  question. Why to learn web development ? Or Why I should be in the feild of Web development ?
+
+    Is there is a well scope on this feild ? Then, obiously answers will be  "yes there is".
+    If you are a guy who loves coding, playing with programming language. Then you should be on web development. 
+    Is there any degree required to be on web development ? then, answers will be "You don't necessarily need a degree.."
+
+    What is the scope on Web development ?
+    One thing i want to make clear on this point. In todays world, everybody needs the website for business to grow up and obiously there is a need of web developer in this case. There are so many organization and companies  who are providing services (E-commerce) online which is only possibe through websites. Some popular among us are amazon, daraz, flipcart and so on. One thing is clear at this point, there is a huge scope of web developer in the market and increasing day by day.
+
+    Prereqest for becoming a Web developer ?
+    
